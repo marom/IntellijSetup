@@ -14,7 +14,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -191,6 +191,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'jhipsterSample1 [bootRun]'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'testApp1 [bootRun]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'testApp1 [bootRun]'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
