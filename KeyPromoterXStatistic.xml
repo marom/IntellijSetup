@@ -121,6 +121,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AngularSpringDemoApp'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AngularSpringDemoApp'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'JHipsterAppOneApp'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
